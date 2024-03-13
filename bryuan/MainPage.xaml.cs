@@ -12,12 +12,12 @@ public partial class MainPage : ContentPage
 	}
 private void bbcreditos(object sender, EventArgs args)
   {
-    frameAbout.IsVisible = true;
+    frameSettings.IsVisible = true;
   }
 
    private void botaovoltar(object sender, EventArgs args)
   {
-    frameAbout.IsVisible = false;
+    frameSettings.IsVisible = false;
   }
 
 private void start(object sender, EventArgs args)
