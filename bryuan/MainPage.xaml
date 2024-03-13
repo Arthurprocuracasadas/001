@@ -60,14 +60,14 @@
                     Clicked="bbcreditos"/>
             
                  <Frame 
-                    x:Name="frameAbout"
+                    x:Name="frameSettings"
                     IsVisible="false"
                     Margin="10,20"
                     CornerRadius="20"
                     BackgroundColor="#3f343a"
                     HorizontalOptions="Fill"
                     VerticalOptions="Fill"/>
-                    >
+                    
               
 
                 <Label 
